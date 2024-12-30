@@ -1,8 +1,8 @@
-package com.raddaoui.rayen.Serives;
+package com.ecommerce.Serives;
 
-import com.raddaoui.rayen.Models.Item;
-import com.raddaoui.rayen.Repositories.ItemRepository;
-import com.raddaoui.rayen.dto.ItemDto;
+import com.ecommerce.Models.Item;
+import com.ecommerce.Repositories.ItemRepository;
+import com.ecommerce.dto.ItemDto;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

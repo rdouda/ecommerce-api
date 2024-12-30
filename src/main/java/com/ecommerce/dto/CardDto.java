@@ -1,7 +1,7 @@
-package com.raddaoui.rayen.dto;
+package com.ecommerce.dto;
 
-import com.raddaoui.rayen.Models.Card;
-import com.raddaoui.rayen.Models.Item;
+import com.ecommerce.Models.Card;
+import com.ecommerce.Models.Item;
 
 import java.util.ArrayList;
 import java.util.List;

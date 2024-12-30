@@ -1,4 +1,4 @@
-package com.raddaoui.rayen.Models;
+package com.ecommerce.Models;
 
 import jakarta.persistence.*;
 import lombok.*;

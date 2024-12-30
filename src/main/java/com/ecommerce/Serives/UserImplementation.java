@@ -1,9 +1,9 @@
-package com.raddaoui.rayen.Serives;
+package com.ecommerce.Serives;
 
-import com.raddaoui.rayen.Models.User;
-import com.raddaoui.rayen.Repositories.CardRepository;
-import com.raddaoui.rayen.Repositories.UserRepository;
-import com.raddaoui.rayen.dto.UserDto;
+import com.ecommerce.Models.User;
+import com.ecommerce.Repositories.CardRepository;
+import com.ecommerce.Repositories.UserRepository;
+import com.ecommerce.dto.UserDto;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -1,6 +1,6 @@
-package com.raddaoui.rayen.Repositories;
+package com.ecommerce.Repositories;
 
-import com.raddaoui.rayen.Models.User;
+import com.ecommerce.Models.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

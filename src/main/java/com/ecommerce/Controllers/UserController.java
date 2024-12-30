@@ -1,7 +1,7 @@
-package com.raddaoui.rayen.Controllers;
+package com.ecommerce.Controllers;
 
-import com.raddaoui.rayen.Serives.UserImplementation;
-import com.raddaoui.rayen.dto.UserDto;
+import com.ecommerce.Serives.UserImplementation;
+import com.ecommerce.dto.UserDto;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;

@@ -1,6 +1,6 @@
-package com.raddaoui.rayen.dto;
+package com.ecommerce.dto;
 
-import com.raddaoui.rayen.Models.Item;
+import com.ecommerce.Models.Item;
 
 public class ItemDto {
 

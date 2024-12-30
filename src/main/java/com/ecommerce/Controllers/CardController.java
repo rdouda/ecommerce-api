@@ -1,7 +1,7 @@
-package com.raddaoui.rayen.Controllers;
+package com.ecommerce.Controllers;
 
-import com.raddaoui.rayen.Serives.CardImplementation;
-import com.raddaoui.rayen.dto.CardDto;
+import com.ecommerce.Serives.CardImplementation;
+import com.ecommerce.dto.CardDto;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
